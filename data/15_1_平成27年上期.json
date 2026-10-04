@@ -1,0 +1,2193 @@
+{
+  "exam_id": "15_1",
+  "exam_name": "平成27年上期",
+  "total_questions": 50,
+  "scraped_at": "2026-10-01 07:48:02",
+  "questions": [
+    {
+      "id": "15_1_41",
+      "title": "第1問",
+      "question": "⑪で示す部分でDV線を引き留める場合に 使用するものは 。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/haisenzu.png"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/41_1.jpg"
+          ]
+        },
+        {
+          "label": "ロ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/41_2.jpg"
+          ]
+        },
+        {
+          "label": "ハ",
+          "text": "",
+          "is_correct": true,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/41_3.jpg"
+          ]
+        },
+        {
+          "label": "ニ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/41_4.jpg"
+          ]
+        }
+      ],
+      "correct_answer": "ハ",
+      "kaisetsu": "誤り。写真は『ノップがいし』です。がいし引き工事において造営材に取り付けて絶縁電線を支持するために使います。 誤り。写真は『チューブサポート』です。ネオン管工事においてネオン管を支持するために使用します。 [正しい]。写真は『引留がいし』です。電柱からの引込線(DV線)を引き留めるために使用します。金属部分で家屋にがいしを取付け、白い部分に電線を巻いて固定します。 誤り。写真は『玉がいし』です。屋外において電線を電柱に支持するためや電線と地面を絶縁するために使用します。 したがって適切な記述は[ハ]です。",
+      "kaisetsu_images": [],
+      "kamoku": "H - 配線図(その他)",
+      "saimoku": "1 - 電気工事用の材料",
+      "question_index": 1
+    },
+    {
+      "id": "15_1_40",
+      "title": "第2問",
+      "question": "⑩で示す配線工事で耐衝撃性硬質塩化ビニル電線管を使用した。その傍記表示は。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/haisenzu.png"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "FEP",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "HIVE",
+          "is_correct": true,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "VE",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "CD",
+          "is_correct": false,
+          "images": []
+        }
+      ],
+      "correct_answer": "ロ",
+      "kaisetsu": "管類の種類を示す主な傍記表示は次のとおりです。 (傍記表示なし)　薄鋼電線管・厚鋼電線管 E 　ねじなし電線管 PF 　合成樹脂製可とう電線管(PF管)　※耐燃性あり CD 　合成樹脂製可とう電線管(CD管)　※耐燃性なし F2 　2種金属製可とう電線管 VE 　硬質塩化ビニル電線管 HIVE 　耐衝撃性硬質塩化ビニル電線管 FEP 　波付硬質合成樹脂管 耐衝撃性硬質塩化ビニル電線管の傍記表示は HIVE です。硬質ポリ塩化ビニル電線管は「VE」、試験対策上は V：ビニル、E：えんか と覚えましょう。それに、HI＝ハイインパクト、つまり耐衝撃性が付いていることを示しています。\n 誤り。波付硬質合成樹脂管の傍記表示です。 [正しい]。耐衝撃性硬質塩化ビニル電線管の傍記表示です。 誤り。硬質塩化ビニル電線管の傍記表示です。 誤り。合成樹脂製可とう電線管(CD管)の傍記表示です。 したがって正解は[ロ]です。",
+      "kaisetsu_images": [],
+      "kamoku": "G - 配線図(図記号)",
+      "saimoku": "1 - 配線器具と材料",
+      "question_index": 2
+    },
+    {
+      "id": "15_1_46",
+      "title": "第3問",
+      "question": "⑯で示すボックス内の接続をすベて差込形コネクタとする場合，使用する差込形コネクタの種類と最少個数の組合せで， 適切なものは 。ただし，使用する電線はVVF1.6とし，ボックスを経由する電線は，すべて接続箇所を設けるものとする。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/haisenzu.png"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/46_1.jpg"
+          ]
+        },
+        {
+          "label": "ロ",
+          "text": "",
+          "is_correct": true,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/46_2.jpg"
+          ]
+        },
+        {
+          "label": "ハ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/46_3.jpg"
+          ]
+        },
+        {
+          "label": "ニ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/46_4.jpg"
+          ]
+        }
+      ],
+      "correct_answer": "ロ",
+      "kaisetsu": "当サイトではボックス内の接続問題（リングスリーブ・差込型コネクタ）について、以下の定型化したやり方で解説しています。 ボックス部から延びる各枝線の本数を確定する 電圧線（黒線)、接地線（白線)、スイッチ間の接続線の順で接続する 接続点ごとに適切なスリーブ／コネクタを選択する 本問のように3路スイッチがある場合、通常は手前側に電源をつなぎます。例外的に次の2つの条件を両方満たすときに限り、奥側につなぐ（心線数を減らせる）と考えましょう。 手前側のみに対象の3路スイッチで点滅する器具がある 奥側に電源からの電圧線を必要とする器具がある 本問では負荷アが奥側のみにあり❶を満たさないため、電源からの電圧線は 手前 の3路スイッチにつなぎます。\n\n解答に必要な箇所のみ検討すると、本問では以下のようになります。 [上側] 3路スイッチ1つのみなので3本です（3路スイッチ同士をつなぐ2本、負荷アに向かう1本）。\n[右側] 負荷アのみなので各2本です（スイッチから1本、接地線1本）。\n[左側] 負荷イとそれを点滅するスイッチ● イ がありますが、接続関係はそちら側で完結しています。このため、スイッチに向かう電圧線と、戻りの接地線の2本です。\n[下側] 負荷（換気扇）とプルスイッチがありますが、接続関係はそちら側で完結しています。このため、スイッチに向かう電圧線と、戻りの接地線の2本です。\n[右下側] 3路スイッチ同士をつなぐ2本、スイッチ●イと換気扇のスイッチにつなぐ電圧線、負荷から戻りの接地線があるので計4本です。 電圧線・接地線・スイッチ間を接続します。接続点の色は、黒：電圧線、青：接地線、赤：スイッチ間です。 電線の接続箇所は、2本が3つ、3本が1つ、4本が1つなので、必要なコネクタは赤×3、青×1、黄×1です。 したがって[ロ]の組合せが正解となります。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/46_5.png",
+        "https://denkou2-siken.com/kakomon/2015_1/img/46_6.png"
+      ],
+      "kamoku": "H - 配線図(その他)",
+      "saimoku": "8 - ボックス内の接続",
+      "question_index": 3
+    },
+    {
+      "id": "15_1_44",
+      "title": "第4問",
+      "question": "⑭で示す屋外部分の接地工事を施すとき，一般的に 使用されることのないものは 。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/haisenzu.png"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/44_1.jpg"
+          ]
+        },
+        {
+          "label": "ロ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/44_2.jpg"
+          ]
+        },
+        {
+          "label": "ハ",
+          "text": "",
+          "is_correct": true,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/44_3.jpg"
+          ]
+        },
+        {
+          "label": "ニ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/44_4.jpg"
+          ]
+        }
+      ],
+      "correct_answer": "ハ",
+      "kaisetsu": "誤り。写真は『電工ナイフ』です。接地線の絶縁被覆を剥くために使用されます。 誤り。写真は『接地棒』です。屋外接地工事で必須の材料で、地中に打ち込んで大地と電気的に接続するための部材です。 [正しい]。写真は『リーマ』です。ハンドドリルやクリックボールと組み合わせて、金属管の切断面の面取りをするための工具です。金属管は使用されないのでリーマも使用されません。 誤り。写真は『裸圧着端子』です。接地線を接地端子や接地棒と接続する際に用いられます。 したがって正解は[ハ]です。",
+      "kaisetsu_images": [],
+      "kamoku": "H - 配線図(その他)",
+      "saimoku": "2 - 電気工事用の工具",
+      "question_index": 4
+    },
+    {
+      "id": "15_1_16",
+      "title": "第5問",
+      "question": "写真に示す機器の名称は。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/16.jpg"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "低圧進相コンデンサ",
+          "is_correct": true,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "変流器",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "ネオン変圧器",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "水銀灯用安定器",
+          "is_correct": false,
+          "images": []
+        }
+      ],
+      "correct_answer": "イ",
+      "kaisetsu": "写真の機器の名称は 低圧進相コンデンサ です(図記号は )。したがって[イ]が正解です。\n\n機器の表面に50 μF (マイクロファラド)というコンデンサ容量の数値が表示されているためコンデンサとわかります。その他の3つの機器でコンデンサ類はないので、これだけで正解を導くことが可能です。 低圧進相コンデンサは、電動機が接続される回路の力率の改善に利用されます。電動機のコイルの性質上、電流は電圧より遅れて流れるため、2つの時間差から仕事に関わらない電流が増加して力率が低下します。それを補うためには電流を大きくする必要があります。進相コンデンサは、電動機コイルで遅れた分を進めて電圧と同じにする役割をもちます。\n [正しい]。単位 μF が記載されているので低圧進相コンデンサであるとわかります。 誤り。変流器は、主回路に流れる大きな電流値を、使いやすい電流に変える機器です。電流量を変える機器なので、200／5 A のように電流表示があります。 誤り。ネオン変圧器は、ネオン管を点灯させるための変圧器で、ネオン管が必要とする1kV～15kVの高電圧に昇圧する機器です。機器表面に15 kV のような電圧表示があります。 誤り。水銀灯用安定器は、電源とランプの間に施設し、ランプ電流が適正となるようにする機器です。機器表面に\"水銀灯安定器\"および20 W のようなワット数の表示があります。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/img/zu/71.png",
+        "https://denkou2-siken.com/kakomon/img/zu/71.jpg"
+      ],
+      "kamoku": "C - 機器、器具、材料及び工具",
+      "saimoku": "2 - 電気機器の構造及び性能",
+      "question_index": 5
+    },
+    {
+      "id": "15_1_42",
+      "title": "第6問",
+      "question": "⑫で示す図記号の器具は。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/haisenzu.png"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/42_1.jpg"
+          ]
+        },
+        {
+          "label": "ロ",
+          "text": "",
+          "is_correct": true,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/42_2.jpg"
+          ]
+        },
+        {
+          "label": "ハ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/42_3.jpg"
+          ]
+        },
+        {
+          "label": "ニ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/42_4.jpg"
+          ]
+        }
+      ],
+      "correct_answer": "ロ",
+      "kaisetsu": "誤り。写真は『電磁開閉器』です(図記号は )。電磁開閉器用押しボタン等と組み合わせて電磁力で電気回路を開閉する装置です。 [正しい]。図記号 は『開閉器(電流計付)』を表します。電流計が一体化されている開閉器で、始動電流などを確認するために電動機用に使われることが多いです。 誤り。写真は『タイムスイッチ』です(図記号は )。24時間のうち指定した時間にスイッチをON/OFFできる装置で、時計盤のような円状の目盛りが特徴的です。 誤り。写真は『開閉器』です(図記号は )。金属製のナイフ状のスイッチを電極(刃受)に差し込んで電気回路を開閉するスイッチです。 したがって正解は[ロ]です。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/img/zu/08_1.png",
+        "https://denkou2-siken.com/kakomon/img/zu/08_2.png",
+        "https://denkou2-siken.com/kakomon/img/zu/18.png",
+        "https://denkou2-siken.com/kakomon/img/zu/08_1.png"
+      ],
+      "kamoku": "G - 配線図(図記号)",
+      "saimoku": "5 - その他の電気機器",
+      "question_index": 6
+    },
+    {
+      "id": "15_1_39",
+      "title": "第7問",
+      "question": "⑨で示す図記号の器具の取り付け場所は。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/haisenzu.png"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "二重床面",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "壁面",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "床面",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "天井面",
+          "is_correct": true,
+          "images": []
+        }
+      ],
+      "correct_answer": "ニ",
+      "kaisetsu": "コンセントの取り付け場所を示す図記号は次のとおりです。一般形は 、ワイド型は が基本形です。\n 壁付コンセント 天井付コンセント 床面コンセント 二重床用コンセント ⑨の図記号は なので 天井面 が正解です。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/img/zu/21_1.png",
+        "https://denkou2-siken.com/kakomon/img/zu/21_2.png",
+        "https://denkou2-siken.com/kakomon/img/zu/20.png",
+        "https://denkou2-siken.com/kakomon/img/zu/21_1.png",
+        "https://denkou2-siken.com/kakomon/img/zu/22.png",
+        "https://denkou2-siken.com/kakomon/img/zu/23.png",
+        "https://denkou2-siken.com/kakomon/img/zu/21_1.png"
+      ],
+      "kamoku": "G - 配線図(図記号)",
+      "saimoku": "2 - コンセント",
+      "question_index": 7
+    },
+    {
+      "id": "15_1_23",
+      "title": "第8問",
+      "question": "図に示す一般的な低圧屋内配線の工事で，スイッチボックス部分の回路は。ただし， a は電源からの非接地側電線(黒色)， b は電源からの接地側電線(白色)を示し，負荷には電源からの接地側電線が直接に結線されているものとする。なお，パイロットランプは100V用を使用する。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/23.png"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/23_1.png"
+          ]
+        },
+        {
+          "label": "ロ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/23_2.png"
+          ]
+        },
+        {
+          "label": "ハ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/23_3.png"
+          ]
+        },
+        {
+          "label": "ニ",
+          "text": "",
+          "is_correct": true,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/23_4.png"
+          ]
+        }
+      ],
+      "correct_answer": "ニ",
+      "kaisetsu": "スイッチとパイロットランプの配線は、常時点滅、同時点滅、異時点滅で次のように異なります。 パイロットランプとスイッチに同じカナ記号が付されているので、スイッチとランプのON/OFFが連動する 同時 点滅であることがわかります。同時点滅の場合、3芯ケーブルを使ってパイロットランプと負荷を並列に接続します。具体的には、スイッチに電源 a の黒線が入り、スイッチからワタリ線でパイロットランプに接続、そしてパイロットランプからは接地側 b につながる白線と負荷につながる赤線の2本が出ます。\n\nしたがって[ニ]の配線が正解です。\n 誤り。スイッチを入れたときに点灯するので同時点滅です。ただし、負荷とパイロットランプが直列に配置されているので、分圧により負荷にほとんど電流が流れません。 誤り。異時点滅の回路です。 誤り。常時点灯の回路です。 [正しい]。同時点滅の回路です。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/img/8/04.png"
+      ],
+      "kamoku": "D - 施工方法",
+      "saimoku": "3 - 機器と器具の設置工事",
+      "question_index": 8
+    },
+    {
+      "id": "15_1_8",
+      "title": "第9問",
+      "question": "定格電流12Aの電動機5台が接続された単相2線式の低圧屋内幹線がある。この幹線の太さを決定するための根拠となる電流の最小値［A］は。ただし，需要率は80％とする。",
+      "question_images": [],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "48",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "60",
+          "is_correct": true,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "66",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "75",
+          "is_correct": false,
+          "images": []
+        }
+      ],
+      "correct_answer": "ロ",
+      "kaisetsu": "幹線の許容電流は、その幹線に接続されている電気機械器具の定格電流の合計値以上としなければなりません。この際、起動電流が定格電流の何倍にもなる電動機 M (モーター)等の定格電流の算定には、以下のとおり一定倍した値を使うことになっています。 電動機の定格電流の合計≦その他の電気機械器具の定格電流の合計 電動機の定格電流の値をそのまま使う(加算しない)、 電動機の定格電流の合計＞その他の電気機械器具の定格電流の合計 ・電動機の定格電流の合計が 50 A以下 ⇒ 1.25 倍した値を使う\n・電動機の定格電流の合計が 50 A超 ⇒ 1.1 倍した値を使う 本問では、電動機 M の定格電流の合計が「12A×5＝60A」ですが、需要率(実際に必要となる電力量の割合)が80%なので、需要率を乗じた「60A×80%＝48A」を電流の合計値として使います。\n\n電流の合計値が50A以下ですから、1.25倍した値が幹線の太さを決める際の根拠となる電流の最小値となります。\n\n　48[A]×1.25＝60[A]\n\nしたがって[ロ]が正解です。",
+      "kaisetsu_images": [],
+      "kamoku": "B - 配電理論",
+      "saimoku": "4 - 幹線の設計",
+      "question_index": 9
+    },
+    {
+      "id": "15_1_4",
+      "title": "第10問",
+      "question": "図のような交流回路で，負荷に対してコンデンサCを設置して，力率を100％に改善した。このときの電流計の指示値は。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/04.png"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "零になる。",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "コンデンサ設置前と比べて変化しない。",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "コンデンサ設置前と比べて増加する。",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "コンデンサ設置前と比べて減少する。",
+          "is_correct": true,
+          "images": []
+        }
+      ],
+      "correct_answer": "ニ",
+      "kaisetsu": "コイルを含む交流回路では、遅れ電流が生じるので力率が低下します。コンデンサは電流を進める働きを持つので、コンデンサを設置すると遅れ電流と進み電流が打ち消しあい、回路の力率が改善されます。力率が改善される細かい理屈は割愛します。\n\n 力率 とは、回路に供給された電力(皮相電力)のうち、実際に抵抗で消費された電力(有効電力)の割合を示す値ですから、電圧が同じとき、同じ電力を得るために必要な電流は力率が高いほど低くて済みます。以下の例を考えてみましょう。 電圧100[V]の回路に、消費電力100[W]の抵抗があった場合、力率50[%]では100[W]の働きを得るのに必要な電流Iは、\n　100[W]＝100[V]×I[A]×0.5\n　100＝50I\n　I＝2[A] 電圧100[V]の回路に、消費電力100[W]の抵抗があった場合、力率100[%]では100[W]の働きを得るのに必要な電流Iは、\n　100[W]＝100[V]×I[A]×1\n　100＝100I\n　I＝1[A] このように力率が改善されると、回路に流れる電流は以前より 減少 します。したがって「コンデンサ設置前と比べて減少する」が正解です。",
+      "kaisetsu_images": [],
+      "kamoku": "A - 電気の基礎理論",
+      "saimoku": "4 - 交流電気の基礎",
+      "question_index": 10
+    },
+    {
+      "id": "15_1_27",
+      "title": "第11問",
+      "question": "低圧回路を試験する場合の試験項目と測定器に関する記述として， 誤っているものは 。",
+      "question_images": [],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "導通試験に回路計(テスタ)を使用する。",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "絶縁抵抗測定に絶縁抵抗計を使用する。",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "電動機の回転速度の測定に検相器を使用する。",
+          "is_correct": true,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "負荷電流の測定にクランプ形電流計を使用する。",
+          "is_correct": false,
+          "images": []
+        }
+      ],
+      "correct_answer": "ハ",
+      "kaisetsu": "正しい。導通試験を行うときは、回路計を抵抗測定レンジに切り替えて測定します。測定対象の電源をOFFにした後、回路計のレンジを抵抗測定に合わせ、テストリードを試験対象の電路の両端に当てたときに0Ωを指示すれば導通が確認できます。導通とは電気的につながっていること、つまり断線していないことです。 正しい。絶縁抵抗測定では、絶縁抵抗計(メガー)を用いて電路に既定値の数倍の電圧を印加することにより、絶縁体の性能を測定します。 [誤り]。回転速度の測定に用いるのは 回転計 です。検相器は、三相交流回路を対象として相順(電動機等の負荷に対する位相の状態)を調べる器具です。 正しい。クランプ式電流計は、測定対象の電線やケーブルを挟むことでそこに流れる負荷電流を測定できる器具です。漏れ電流の測定にも使います。 したがって誤っているものは[ハ]です。",
+      "kaisetsu_images": [],
+      "kamoku": "E - 検査方法",
+      "saimoku": "1 - 導通試験、点検の方法",
+      "question_index": 11
+    },
+    {
+      "id": "15_1_22",
+      "title": "第12問",
+      "question": "使用電圧100Vの屋内配線の施設場所における工事の種類で， 不適切なものは 。",
+      "question_images": [],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "点検できない隠ぺい場所であって，乾燥した場所の金属管工事",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "点検できない隠ぺい場所であって，湿気の多い場所の合成樹脂管工事(CD管を除く)",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "展開した場所であって，水気のある場所のケーブル工事",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "展開した場所であって，水気のある場所のライティングダクト工事",
+          "is_correct": true,
+          "images": []
+        }
+      ],
+      "correct_answer": "ニ",
+      "kaisetsu": "施設場所ごとに可能な配線工事の種類は次のとおりです。 適切。金属管工事はどこでも施設することができます。 適切。合成樹脂管工事(CD管を除く)はどこでも施設することができます。 適切。ケーブル工事はどこでも施設することができます。 [不適切]。ライティングダクト工事を施設できるのは、点検できる乾燥した場所に限られます。水気のある場所には施設できません。 したがって不適切な記述は[ニ]です。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/img/4/03.png"
+      ],
+      "kamoku": "D - 施工方法",
+      "saimoku": "2 - 配線工事",
+      "question_index": 12
+    },
+    {
+      "id": "15_1_11",
+      "title": "第13問",
+      "question": "プルボックスの主な使用目的は。",
+      "question_images": [],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "多数の金属管が集合する場所等で，電線の引き入れを容易にするために用いる。",
+          "is_correct": true,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "多数の開閉器類を集合して設置するために用いる。",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "埋込みの金属管工事で，スイッチやコンセントを取り付けるために用いる。",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "天井に比較的重い照明器具を取り付けるために用いる。",
+          "is_correct": false,
+          "images": []
+        }
+      ],
+      "correct_answer": "イ",
+      "kaisetsu": "プルボックス は、電気工事において配線の接続部に設置し、多数の接続部分を収納して保護したり、電線の引き入れを容易にしたりするための箱状の部品です。金属製や樹脂製のものがあり、壁面や天井に取り付けて使用します。アウトレットボックスのように最初から穴が開いているわけではないので、自分で必要な穴を空けて使用します。\n プルボックス 電線管相互や電線を接続する場所を提供する [正しい]。プルボックスの使用目的です。 誤り。分電盤の使用目的です。 誤り。スイッチボックスの使用目的です。 誤り。引掛シーリングや天井アンカーの使用目的です。プルボックスはそれらの照明器具取付け部の電線引き出しに用います。 したがって正解は[イ]です。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/img/zu/02.png",
+        "https://denkou2-siken.com/kakomon/img/zu/02.jpg"
+      ],
+      "kamoku": "C - 機器、器具、材料及び工具",
+      "saimoku": "3 - 材料の材質及び用途",
+      "question_index": 13
+    },
+    {
+      "id": "15_1_36",
+      "title": "第14問",
+      "question": "⑥で示す部分の接地工事の種類及びその接地抵抗の許容される最大値［Ω］の組合せとして， 正しいものは 。なお，漏電遮断器は，定格感度電流30mA，動作時間0.1秒以内のものを使用している。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/haisenzu.png"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "C種接地工事　10Ω",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "C種接地工事　50Ω",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "D種接地工事　100Ω",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "D種接地工事　500Ω",
+          "is_correct": true,
+          "images": []
+        }
+      ],
+      "correct_answer": "ニ",
+      "kaisetsu": "施設する接地工事と接地抵抗の最大値は、以下の表を暗記しておけば簡単に解くことができます。A種とB種は高圧向けで電工二種の範囲外なので省略しています。 ⑥の指す配線 a が接続されている動力分電盤を見ると、受電点に「3Φ3W 200V」と記載があるので、三相3線式200Vの回路ということがわかります。\n\n分電盤には300V以下の電源しか入ってこないため、接地は D種 接地工事となります。動力分電盤を見ると幹線からの分岐回路に漏電遮断器[BE]が設置されているため、接地抵抗値は 500 ［Ω］以下にするのが適切です。\n\nしたがって正しい組合せは[ニ]です。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/img/8/02.png"
+      ],
+      "kamoku": "H - 配線図(その他)",
+      "saimoku": "6 - 接地工事・接地抵抗",
+      "question_index": 14
+    },
+    {
+      "id": "15_1_50",
+      "title": "第15問",
+      "question": "この配線図で， 使用されている コンセン卜は。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/haisenzu.png"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "",
+          "is_correct": true,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/50_1.jpg"
+          ]
+        },
+        {
+          "label": "ロ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/50_2.jpg"
+          ]
+        },
+        {
+          "label": "ハ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/50_3.jpg"
+          ]
+        },
+        {
+          "label": "ニ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/50_4.jpg"
+          ]
+        }
+      ],
+      "correct_answer": "イ",
+      "kaisetsu": "コンセントの傍記表示は、15A、125V、1口、2極であれば記載なし、それ以外の場合には定格電流、定格電圧、口数、極数がそれぞれ傍記されます。コンセントの種類と刃受けの形状の一覧は下表のとおりです。接地極付の刃受けには が付きます。 [正しい]。写真は『抜け止め型・125V・15Aの1口』です(傍記はLK)。店舗内のカウンタの天井付コンセントとして使用されています。以下、125Vと15Aは共通なので記載を省略します。 誤り。写真は『接地端子付の2口』です(傍記は2 ET)。この配線図では使用されていません。 誤り。写真は『抜け止め型・接地極付の2口』です(傍記は2 LK E)。この配線図では使用されていません。 誤り。写真は『抜け止め型・接地端子付の防雨型3口』です(傍記は3 LK ET WP)。この配線図では使用されていません。 したがって正解は[イ]です。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/img/7/01.png",
+        "https://denkou2-siken.com/kakomon/img/7/02.png"
+      ],
+      "kamoku": "G - 配線図(図記号)",
+      "saimoku": "2 - コンセント",
+      "question_index": 15
+    },
+    {
+      "id": "15_1_13",
+      "title": "第16問",
+      "question": "許容電流から判断して，公称断面積1.25mm 2 のゴムコード(絶縁物が天然ゴムの混合物)を使用できる最も消費電力の大きな電熱器具は。ただし，電熱器具の定格電圧は100Vで，周囲温度は30℃以下とする。",
+      "question_images": [],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "600Wの電気炊飯器",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "1000Wのオーブントースター",
+          "is_correct": true,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "1500Wの電気湯沸器",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "2000Wの電気乾燥器",
+          "is_correct": false,
+          "images": []
+        }
+      ],
+      "correct_answer": "ロ",
+      "kaisetsu": "ゴムコードの許容電流は、断面積ごとに以下のようになっています。 設問のコードは1.25mm 2 のため許容電流は12Aです。電圧が100Vなので、12[A]×100[V]＝1,200[W] までの電力の機器を動作させることができます。\n\n選択肢の器具のうち、1200W以下、かつ最も大きな消費電力の機器は[ロ]の オーブントースター です。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/img/3/01.png"
+      ],
+      "kamoku": "C - 機器、器具、材料及び工具",
+      "saimoku": "1 - 配線器具の構造及び性能",
+      "question_index": 16
+    },
+    {
+      "id": "15_1_2",
+      "title": "第17問",
+      "question": "図のような回路で，電源電圧が24V，抵抗R＝4Ωに流れる電流が6A，リアクタンスX L ＝3Ωに流れる電流が8Aであるとき，回路の力率［％］は。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/02.png"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "43",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "60",
+          "is_correct": true,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "75",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "80",
+          "is_correct": false,
+          "images": []
+        }
+      ],
+      "correct_answer": "ロ",
+      "kaisetsu": "力率 とは、回路に供給された電力(皮相電力)のうち、実際に抵抗で消費された電力(有効電力)の割合を示す値です。\n\n　力率cosθ＝ 有効電力 皮相電力 \n\n電力は抵抗のみで消費される ※ ので、交流回路の力率は、抵抗とリアクタンスが直列で接続されている場合、並列で接続されている場合に分けて以下のように計算します。 ①抵抗とリアクタンスが直列 力率cosθ＝ V R V \n回路の電圧Vに対する抵抗に印加される電圧V R で求める ②抵抗とリアクタンスが並列 力率cosθ＝ I R I \n回路の電流Iに対する抵抗に流れる電流I R で求める 本問では、抵抗とリアクタンスが 並列 なので②の式を使います。回路に流れる電流が10A、そのうち抵抗に流れる電流は6Aなので、\n\n　力率cosθ＝ 6 10 ＝0.6＝ 60 ［％］\n\nしたがって[ロ]が正解です。\n\n※コイルへ供給された電力は、消費されないため無効電力と呼ばれます。コイルはエネルギーを蓄える素子であり、コイルへ供給された電力は電源とコイル間を行き来するだけで実際に仕事をしないためです。",
+      "kaisetsu_images": [],
+      "kamoku": "A - 電気の基礎理論",
+      "saimoku": "4 - 交流電気の基礎",
+      "question_index": 17
+    },
+    {
+      "id": "15_1_14",
+      "title": "第18問",
+      "question": "点灯管を用いる蛍光灯と比較して，高周波点灯専用形の蛍光灯の特徴として， 誤っているものは 。",
+      "question_images": [],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "ちらつきが少ない。",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "発光効率が高い。",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "インバー夕が使用されている。",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "点灯に要する時間が長い。",
+          "is_correct": true,
+          "images": []
+        }
+      ],
+      "correct_answer": "ニ",
+      "kaisetsu": "正しい。高周波点灯専用形の蛍光灯では、商用電源(50Hz/60Hz)ではなく、数十kHz～数百kHzの高周波電流で放電を維持します。人間の目では感じられないほど短い周期で放電を繰り返すため、ちらつき(フリッカー)がほとんど感じられません。 正しい。高周波点灯では、電極損失が少なく、また放電の効率が高まるため、同じ電力でもより多くの光を得ることができます。したがって、一般的に従来型蛍光灯よりも発光効率が高くなります。 正しい。高周波点灯を実現するためには、商用電源の交流を直流に変換したうえで、さらにそれを高周波の交流に変換するインバータ回路が不可欠です。 [誤り]。高周波点灯専用形の蛍光灯は瞬時点灯が可能であり、点灯までの待機時間がほとんどありません。一方、点灯管を用いるタイプはその仕組み上、点灯まで数秒のタイムラグがあります。 したがって誤っている記述は[ニ]です。",
+      "kaisetsu_images": [],
+      "kamoku": "C - 機器、器具、材料及び工具",
+      "saimoku": "2 - 電気機器の構造及び性能",
+      "question_index": 18
+    },
+    {
+      "id": "15_1_12",
+      "title": "第19問",
+      "question": "漏電遮断器に内蔵されている零相変流器の役割は。",
+      "question_images": [],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "地絡電流の検出",
+          "is_correct": true,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "短絡電流の検出",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "過電圧の検出",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "不足電圧の検出",
+          "is_correct": false,
+          "images": []
+        }
+      ],
+      "correct_answer": "イ",
+      "kaisetsu": "零相変流器(ZCT)は、漏電遮断器に内蔵されている装置で、地絡電流を検出することを目的とします。通常、電流は「行き」と「戻り」でバランスしており、ZCTを通過する複数の導体(L1とL2、LとNなど)を合算すると電流の総和はゼロになるはずです。しかし、どこかで漏電(地絡)が発生していると、そのバランスが崩れます。そのときに発生する差分を検出する役割を持つのが零相変流器です。\n\nしたがって、[イ]地絡電流の検出が正解です。\n [正しい]。零相変流器の役割です。 誤り。過電流継電器(OCR)の役割です。 誤り。過電圧継電器(OVR)の役割です。 誤り。不足電圧継電器(UVR)の役割です。",
+      "kaisetsu_images": [],
+      "kamoku": "C - 機器、器具、材料及び工具",
+      "saimoku": "1 - 配線器具の構造及び性能",
+      "question_index": 19
+    },
+    {
+      "id": "15_1_35",
+      "title": "第20問",
+      "question": "⑤で示す図記号の計器の使用目的は。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/haisenzu.png"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "負荷率を測定する。",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "電力を測定する。",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "電力量を測定する。",
+          "is_correct": true,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "最大電力を測定する。",
+          "is_correct": false,
+          "images": []
+        }
+      ],
+      "correct_answer": "ハ",
+      "kaisetsu": "主な指示計器の図記号は次のとおりです。それぞれの記号は測定対象の単位を表しています。屋内配線図の図記号JIS C 0303で規定されているのは電力量計だけなので、図記号が問われるのは電力量計しかないでしょう。\n 電力量計(電力メータ) 電流計 電圧計 電力計 力率計 最大需要電力計 ⑤の図記号は なので電力量計です。したがって測定対象は 電力量 となります。電力量計は、屋内に入る全ての電力量を測定するために、引込線取付点と引込口との間に取り付けられます。いわゆる電力メータと呼ばれるものです。四角囲みのWhは、箱入り又はフード付であることを示します。\n\nなお、負荷率は電力の最大容量(契約電力)に対する平均使用電力の割合なので、直接的に測定される値ではなく測定値から計算によって求めます。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/img/zu/65_1.png",
+        "https://denkou2-siken.com/kakomon/img/zu/65_2.png",
+        "https://denkou2-siken.com/kakomon/img/zu/66.png",
+        "https://denkou2-siken.com/kakomon/img/zu/67.png",
+        "https://denkou2-siken.com/kakomon/img/zu/68.png",
+        "https://denkou2-siken.com/kakomon/img/zu/69.png",
+        "https://denkou2-siken.com/kakomon/img/zu/70.png",
+        "https://denkou2-siken.com/kakomon/img/zu/65_2.png"
+      ],
+      "kamoku": "G - 配線図(図記号)",
+      "saimoku": "5 - その他の電気機器",
+      "question_index": 20
+    },
+    {
+      "id": "15_1_34",
+      "title": "第21問",
+      "question": "④で示す部分の最少電線本数(心線数)は。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/haisenzu.png"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "2",
+          "is_correct": true,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "3",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "4",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "5",
+          "is_correct": false,
+          "images": []
+        }
+      ],
+      "correct_answer": "イ",
+      "kaisetsu": "配線の線条数を求める問題は、次の4つの手順で考えます。これは心線数を答える問題、適切なケーブルを写真から選ぶ問題で共通の解法です。複線図を描く必要はありません。\n 配線が電源(非接地側)線とスイッチ・コンセントをつなぐ場合、電源線(黒線)を1本加える 配線の先に負荷がある場合、接地側の線(白線)を1本加える 配線がスイッチと負荷をつなぐ場合、リンクごとに1本加える 配線が3路スイッチ同士、または3路スイッチと4路スイッチをつなぐ場合、リンクごとに2本加える。ただし、3路スイッチはどちらに電源線を接続するかによって、最少本数に違いが出る場合がある この手順に従って電源ⓕから延びる③部分の周辺配線を確認していきます。\n 配線の先に● ウ 等のスイッチがあるので、電源線が 1 本必要です。 配線の先にダウンライト等があるので、接地側の線が 1 本必要です。 ③部分を介してつながるスイッチと負荷はありません。 3路スイッチ、4路スイッチはありません。 したがって最少電線本数は 2 本となります。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/img/8/08.png",
+        "https://denkou2-siken.com/kakomon/img/8/09.png",
+        "https://denkou2-siken.com/kakomon/img/8/10.png",
+        "https://denkou2-siken.com/kakomon/img/8/11.png"
+      ],
+      "kamoku": "H - 配線図(その他)",
+      "saimoku": "7 - 線条数",
+      "question_index": 21
+    },
+    {
+      "id": "15_1_5",
+      "title": "第22問",
+      "question": "図のような電源電圧E［V］の三相3線式回路で，図中の × 印点で断線した場合，断線後のa-c間の抵抗R［Ω］に流れる電流I［A］を示す式は。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/05.png"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "E 2R",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "E 3 R",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "E R",
+          "is_correct": true,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "3E 2R",
+          "is_correct": false,
+          "images": []
+        }
+      ],
+      "correct_answer": "ハ",
+      "kaisetsu": "三相3線式回路の接続形態には、 スター結線 と デルタ結線 があり、それぞれ線間電流と相電流、線間電圧と相電圧の間に以下の関係があります。 本問の回路が × 印点で断線した場合、論理的に以下の回路と同等となります。 デルタ結線では相電圧＝線間電圧なので、並列回路の2線には線間電圧と同じE[V]が印加されることになります。下の抵抗に流れる電流Iは I＝ V R より、\n\n　I＝ E R \n\nしたがって[ハ]が正解です。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/img/1/06.png",
+        "https://denkou2-siken.com/kakomon/2015_1/img/05_1.png"
+      ],
+      "kamoku": "A - 電気の基礎理論",
+      "saimoku": "5 - 三相3線式回路",
+      "question_index": 22
+    },
+    {
+      "id": "15_1_33",
+      "title": "第23問",
+      "question": "③で示す部分の電路と大地間の絶縁抵抗として，許容される最小値［MΩ］は。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/haisenzu.png"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "0.1",
+          "is_correct": true,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "0.2",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "0.4",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "0.6",
+          "is_correct": false,
+          "images": []
+        }
+      ],
+      "correct_answer": "イ",
+      "kaisetsu": "絶縁抵抗を選択する問題は、以下の表の数字を暗記しておけば簡単に解くことができます。 ③の指す配線 ⓔ が接続されている電灯分電盤を見ると、受電点に「1Φ3W 100/200V」と記載があるので、単相3線式100/200Vの回路ということがわかります。したがって、電路と大地間の絶縁抵抗は 0.1 ［MΩ］以上とするのが適切です。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/img/8/01.png"
+      ],
+      "kamoku": "H - 配線図(その他)",
+      "saimoku": "5 - 絶縁抵抗",
+      "question_index": 23
+    },
+    {
+      "id": "15_1_7",
+      "title": "第24問",
+      "question": "金属管による低圧屋内配線工事で，管内に直径1.6mmの600Vビニル絶縁電線(軟銅線)3本を収めて施設した場合，電線1本当たりの許容電流［A］は。ただし，周囲温度は30℃以下，電流減少係数は0.70とする。",
+      "question_images": [],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "19",
+          "is_correct": true,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "24",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "27",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "34",
+          "is_correct": false,
+          "images": []
+        }
+      ],
+      "correct_answer": "イ",
+      "kaisetsu": "電線(銅線)1本当たりの許容電流は、電線と太さによって以下のように規定されています。 一つの管やケーブルに複数の電線を収めて使用する場合、放熱性能が悪化して電線の温度が上昇しやすくなるため、上記の許容電流の値に、収める電線数に応じた電流減少係数を乗じた値が1本当たりの電線の許容電流となります。\n\n　電線1本当たりの許容電流＝許容電流×電流減少係数 直径1.6㎜の電線の許容電流は27A、3本収めた場合の電流減少係数は0.70なので、電線1本当たりの許容電流は、\n\n　27[A]×0.70＝18.9[A]\n\n電線の許容電流には小数第一位を七捨八入した整数値を用いることになっているため、小数点以下を切り上げた 19 ［A］が正解となります。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/img/2/01.png",
+        "https://denkou2-siken.com/kakomon/img/2/02.png"
+      ],
+      "kamoku": "B - 配電理論",
+      "saimoku": "3 - 電線の許容電流",
+      "question_index": 24
+    },
+    {
+      "id": "15_1_15",
+      "title": "第25問",
+      "question": "金属管(鋼製電線管)の切断及び曲げ作業に使用する工具の組合せとして， 適切なものは 。",
+      "question_images": [],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "やすり\nパイプレンチ\nパイプベンダ",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "リーマ\nパイプレンチ\nトーチランプ",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "リーマ\n金切りのこ\nトーチランプ",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "金切りのこ\nやすり\nパイプベンダ",
+          "is_correct": true,
+          "images": []
+        }
+      ],
+      "correct_answer": "ニ",
+      "kaisetsu": "金属管(鋼製電線管)の切断と曲げ作業は次の流れで行います。 金切りのこ、またはパイプカッタで適切な長さに切断する やすり、またはクリックボールとリーマを用いて、切断面の面取りを行う 金属管をパイプベンダにセットし、ゆっくりを一定の力を加えて曲げる したがって[ニ]の組合せが適切です。\n\n【その他の工具】 パイプレンチは、金属管とカップリングの締め付けに使用する工具です。 トーチランプは、硬質ポリ塩化ビニル電線管(VE管)の曲げ加工に使用する工具です。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/15_1.jpg",
+        "https://denkou2-siken.com/kakomon/2015_1/img/15_2.jpg",
+        "https://denkou2-siken.com/kakomon/2015_1/img/15_3.jpg"
+      ],
+      "kamoku": "C - 機器、器具、材料及び工具",
+      "saimoku": "4 - 工具の用途",
+      "question_index": 25
+    },
+    {
+      "id": "15_1_6",
+      "title": "第26問",
+      "question": "図のような三相3線式回路で，電線1線当たりの抵抗が0.15Ω，線電流が10Aのとき，この電線路の電力損失［W］は。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/06.png"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "15",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "26",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "30",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "45",
+          "is_correct": true,
+          "images": []
+        }
+      ],
+      "correct_answer": "ニ",
+      "kaisetsu": "電線による 電力損失 は、配電方式(単相2線・単相3線・三相3線)に応じて以下の式で計算します。 三相3線式では3本の電線のいずれにも同じ電流が流れるので、1線あたりの電力損失量を3倍して答えを導きます。\n\nオームの法則 V＝I×R、電力の公式 P＝V×I より ※ 、1線当たりの電力損失Pは、\n\n　V＝10[A]×0.15[Ω]＝1.5[V]\n　P＝1.5[V]×10[A]＝15[W]\n\n電線路全体の電力損失はこれを3倍して、\n\n　3×15[W]＝ 45 [W]\n\nしたがって[ニ]が正解です。\n\n※電圧の計算を経由せず、P＝I 2 R で1回で計算してもOKです",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/img/2/06.png"
+      ],
+      "kamoku": "B - 配電理論",
+      "saimoku": "2 - 電力損失",
+      "question_index": 26
+    },
+    {
+      "id": "15_1_28",
+      "title": "第27問",
+      "question": "電気の保安に関する法令についての記述として， 誤っているものは 。",
+      "question_images": [],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "「電気工事士法」は，電気工事の作業に従事する者の資格及び義務を定めた法律である。",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "「電気設備に関する技術基準を定める省令」は，電気事業法の規定に基づき定められた経済産業省令である。",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "「電気用品安全法」は，電気用品の製造，販売等を規制し，電気用品の安全性を確保するために定めた法律で電気用品による危険及び障害の発生を防止することを目的とする。",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "「電気用品安全法」において，電気工作物は，一般用電気工作物，電気事業の用に供する電気工作物，自家用電気工作物の3つに分類されている。",
+          "is_correct": true,
+          "images": []
+        }
+      ],
+      "correct_answer": "ニ",
+      "kaisetsu": "正しい。電気工事士法は、 電気工事の作業に従事する者の資格及び義務を定め 、電気工事の欠陥による災害の発生の防止に寄与することを目的としています。 正しい。電気設備に関する技術基準を定める省令は、電気事業法の規定に基づき、事業用電気工作物及び一般用電気工作物の技術基準を定めた経済産業省令です。 正しい。電気用品安全法は、電気用品の製造、販売等を規制するとともに、電気用品の安全性の確保につき民間事業者の自主的な活動を促進することにより、電気用品による危険及び障害の発生を防止することを目的としています。 [誤り]。電気工作物を一般用電気工作物・電気事業用の電気工作物・自家用電気工作物とに区分し、それぞれについて定義しているのは 電気事業法 です。電気用品安全法ではありません。 したがって誤っている記述は[ニ]です。",
+      "kaisetsu_images": [],
+      "kamoku": "F - 保安に関する法令",
+      "saimoku": "4 - 法令総合",
+      "question_index": 27
+    },
+    {
+      "id": "15_1_18",
+      "title": "第28問",
+      "question": "写真に示す材料の名称は。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/18.jpg"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "ベンダ",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "ユニバーサル",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "ノーマルベンド",
+          "is_correct": true,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "カップリング",
+          "is_correct": false,
+          "images": []
+        }
+      ],
+      "correct_answer": "ハ",
+      "kaisetsu": "誤り。ベンダは、金属管の曲げ加工に使用する工具です。 誤り。ユニバーサルは、配管が直角に曲がる部分で、金属管相互を接続する材料です。外径31㎜以下の比較的細い金属管が対象です。 [正しい]。写真は『ノーマルベンド(ねじなし電線管用)』です。配管が直角に曲がる部分で、金属管相互を接続する材料です。ユニバーサルよりも太い管径にも対応します。 誤り。カップリングは、金属管相互を直線的に接続する材料です。 したがって正解は[ハ]です。",
+      "kaisetsu_images": [],
+      "kamoku": "C - 機器、器具、材料及び工具",
+      "saimoku": "3 - 材料の材質及び用途",
+      "question_index": 28
+    },
+    {
+      "id": "15_1_21",
+      "title": "第29問",
+      "question": "屋内の管灯回路の使用電圧が1000Vを超えるネオン放電灯工事として， 不適切なものは 。ただし，簡易接触防護措置が施してあるものとする。",
+      "question_images": [],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "ネオン変圧器への100V電源回路は，専用回路とし，20A配線用遮断器を設置した。",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "ネオン変圧器の二次側(管灯回路)の配線をがいし引き工事により施設し，弱電流電線との離隔距離を5cmとした。ただし，隔壁や絶縁管は設けなかった。",
+          "is_correct": true,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "ネオン変圧器の金属製外箱にD種接地工事を施した。",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "ネオン変圧器の二次側(管灯回路)の配線を，ネオン電線を使用し，がいし引き工事により施設し，電線の支持点間の距離を1ｍとした。",
+          "is_correct": false,
+          "images": []
+        }
+      ],
+      "correct_answer": "ロ",
+      "kaisetsu": "適切。放電灯に電気を供給する電路には、専用の配線用遮断器(開閉器＋過電流遮断器)を設置する必要があります。 [不適切]。がいし引き工事では、絶縁性の隔壁や難燃性・耐水性を有する絶縁管に電線に収める場合を除き、配線と弱電流電線等とを 10 cm(裸電線の場合は30cm)以上離して設置しなければなりません。よって5cmでは不適切です。 適切。ネオン変圧器の外箱には、D種接地工事を施すことが必要です。省略はできません。 適切。ネオン管の回路の配線は、がいし引き工事によりネオン電線を造営材に取り付けることによって行います。この際、電線の支持点間の距離は 1 ｍ以下でなければなりません。 したがって不適切なものは[ハ]です。",
+      "kaisetsu_images": [],
+      "kamoku": "D - 施工方法",
+      "saimoku": "3 - 機器と器具の設置工事",
+      "question_index": 29
+    },
+    {
+      "id": "15_1_49",
+      "title": "第30問",
+      "question": "この配線図の施工で， 使用されていないものは 。ただし，写真下の図は，接点の構成を示す。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/haisenzu.png"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/49_1.jpg"
+          ]
+        },
+        {
+          "label": "ロ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/49_2.jpg"
+          ]
+        },
+        {
+          "label": "ハ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/49_3.jpg"
+          ]
+        },
+        {
+          "label": "ニ",
+          "text": "",
+          "is_correct": true,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/49_4.jpg"
+          ]
+        }
+      ],
+      "correct_answer": "ニ",
+      "kaisetsu": "誤り。写真は『自動点滅器』です(図記号は● A )。事務所の左側入口にあり、壁付電灯(記号イ)のスイッチとして使用されています。 誤り。写真は『リモコントランス』です(図記号は )。電灯分電盤内においてリモコンリレー用に電圧を落とすために使用されています。 誤り。写真は『3路スイッチ』です(図記号は● 3 )。事務所の左側入口と右側入口の2か所で事務所内の3つの蛍光灯(記号ア)をON/OFFするために使用されています。 [正しい]。写真は『2極スイッチ』です(図記号は● 2P )。2回路を同時に開閉する器具で、200Vの電気器具などに接続して使いますが、この配線図では使用されていません。 したがって使用されないものは[ニ]です。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/img/zu/15.png"
+      ],
+      "kamoku": "G - 配線図(図記号)",
+      "saimoku": "3 - スイッチ等",
+      "question_index": 30
+    },
+    {
+      "id": "15_1_19",
+      "title": "第31問",
+      "question": "低圧屋内配線工事で，600Vビニル絶縁電線(軟銅線)をリングスリーブ用圧着工具とリングスリーブE形を用いて終端接続を行った。接続する電線に適合するリングスリーブの種類と圧着マーク(刻印)の組合せで， 不適切なものは 。",
+      "question_images": [],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "直径1.6mm2本の接続に，小スリーブを使用して圧着マークを 〇 にした。",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "直径1.6mm1本と直径2.0mm1本の接続に，小スリーブを使用して圧着マークを 小 にした。",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "直径1.6mm4本の接続に，中スリーブを使用して圧着マークを 中 にした。",
+          "is_correct": true,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "直径1.6mm1本と直径2.0mm2本の接続に，中スリーブを使用して圧着マークを 中 にした。",
+          "is_correct": false,
+          "images": []
+        }
+      ],
+      "correct_answer": "ハ",
+      "kaisetsu": "使用するリングスリーブの種類と圧着マークの組合せは、種類が多く覚えるのが大変ですが、試験用に鉄板の解法があるのでこれを使って解きましょう（複線図問題や技能試験でも使えます）。\n\n鉄板の解法とは、1.6mm電線1本を\"1\"、2.0mm電線1本を\"2\"として値を足していき、その合計値で以下のようにリングスリーブを判断するものです（ 大 は出題されないので無視）。 合計値が 2 ⇒ 圧着マークは 〇 合計値が 3 または 4 ⇒ 圧着マークは 小 合計値が 5 以上 ⇒ 圧着マークは 中 適切。1.6mm/2本なので合計値は2、よって圧着マークは 〇 です。 適切。1.6mm/1本と2.0mm/1本なので合計値は3、よって圧着マークは 小 です。 [不適切]。1.6mm/4本なので合計値は4、よって圧着マークは 小 です。 適切。1.6mm/1本と2.0mm/2本なので合計値は5、よって圧着マークは 中 です。 したがって不適切な組合せは[ハ]です。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/img/4/02.png"
+      ],
+      "kamoku": "D - 施工方法",
+      "saimoku": "1 - 電線の接続",
+      "question_index": 31
+    },
+    {
+      "id": "15_1_24",
+      "title": "第32問",
+      "question": "単相3線式100/200Vの屋内配線で，絶縁被覆の色が赤色，白色，黒色の3種類の電線が使用されていた。この屋内配線で電線相互間及び電線と大地間の電圧を測定した。その結果としての電圧の組合せで， 適切なものは 。ただし，中性線は白色とする。",
+      "question_images": [],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "黒色線と大地間　100V\n白色線と大地間　200V\n赤色線と大地間　0V",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "黒色線と白色線間　100V\n黒色線と大地間　0V\n赤色線と大地間　200V",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "赤色線と黒色線間　200V\n白色線と大地間　0V\n黒色線と大地間　100V",
+          "is_correct": true,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "黒色線と白色線間　200V\n黒色線と大地間　100V\n赤色線と大地間　0V",
+          "is_correct": false,
+          "images": []
+        }
+      ],
+      "correct_answer": "ハ",
+      "kaisetsu": "中性線の白色線は大地に接地されており大地との電位差はありません。したがって、白色線－大地間の電圧(電位差)は 0 Vです。これだけでも正解を導くことが可能です。\n\nまた、非接地側線(赤色線や黒色線)と、接地側線(中性線・白色線)との電位差はいずれも実効値 100 Vです。また、中性線－大地間の電位差はないため、非接地側線－大地間の電位差も実効値 100 Vです。最後に赤色線と黒色線の間は 200 Vです。以下の図解を見れば一目瞭然でしょう。 したがって適切な組合せとなっている[ハ]が正解です。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/img/5/04.png"
+      ],
+      "kamoku": "E - 検査方法",
+      "saimoku": "1 - 導通試験、点検の方法",
+      "question_index": 32
+    },
+    {
+      "id": "15_1_25",
+      "title": "第33問",
+      "question": "単相3線式回路の漏れ電流を，クランプ形漏れ電流計を用いて測定する場合の測定方法として， 正しいものは 。ただし， は中性線を示す。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/25.png"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "",
+          "is_correct": true,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/25_1.png"
+          ]
+        },
+        {
+          "label": "ロ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/25_2.png"
+          ]
+        },
+        {
+          "label": "ハ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/25_3.png"
+          ]
+        },
+        {
+          "label": "ニ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/25_4.png"
+          ]
+        }
+      ],
+      "correct_answer": "イ",
+      "kaisetsu": "クランプ形漏れ電流計を用いて漏れ電流を測定する方法は、回路が単相2線式か単相3線式かで異なります。 単相2線式 接地線以外の電圧線 2本をクランプ する 単相3線式 電圧線2本と中性線1本の 3本をクランプ する 本問は単相3線式回路であるため、3本の線をまとめて挟む[ハ]の方法が漏れ電流の正しい測定方法です。\n\nなお、クランプ型電流計の本来の用途である負荷電流を測定するときには、測定したい電線1本のみクランプで挟みます。",
+      "kaisetsu_images": [],
+      "kamoku": "E - 検査方法",
+      "saimoku": "4 - 試験用器具の性能及び使用方法",
+      "question_index": 33
+    },
+    {
+      "id": "15_1_17",
+      "title": "第34問",
+      "question": "写真に示す器具の用途は。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/17.jpg"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "三相回路の相順を調べるのに用いる。",
+          "is_correct": true,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "三相回路の電圧の測定に用いる。",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "三相電動機の回転速度の測定に用いる。",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "三相電動機の軸受けの温度の測定に用いる。",
+          "is_correct": false,
+          "images": []
+        }
+      ],
+      "correct_answer": "イ",
+      "kaisetsu": "写真の器具は 検相器 です。 三相交流回路の相順(相回転) であるR相、S相、T相を調べるために使用します。写真では見にくいですが、回転円盤に R － S － T の文字が記載されていることが目印です。\n\nしたがって[イ]が正しい選択肢です。\n [正しい]。検相器は、三相交流回路の相順(相回転)を調べるために使用します。 誤り。電圧の測定に用いるのは回路計(テスタ)です。 誤り。回転速度の測定に用いるのは回転計です。 誤り。電動機の軸受けの温度の測定に用いるのは各種温度計です。",
+      "kaisetsu_images": [],
+      "kamoku": "C - 機器、器具、材料及び工具",
+      "saimoku": "5 - 検査器具",
+      "question_index": 34
+    },
+    {
+      "id": "15_1_30",
+      "title": "第35問",
+      "question": "低圧の屋内電路に使用する次のもののうち，特定電気用品の組合せとして， 正しいものは 。\n 定格電圧100V，定格電流20Aの漏電遮断器 定格電圧100V，定格消費電力25Wの換気扇 定格電圧600V，導体の太さ(直径)2.0mmの3心ビニル絶縁ビニルシースケーブル 内径16mmの合成樹脂製可とう電線管(PF管)",
+      "question_images": [],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "A・B",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "B・D",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "A・C",
+          "is_correct": true,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "C・D",
+          "is_correct": false,
+          "images": []
+        }
+      ],
+      "correct_answer": "ハ",
+      "kaisetsu": "電気用品安全法 では、電気用品を「特定電気用品」と「特定電気用品以外の電気用品」に分けています。下表は試験で出題歴のある電気用品の一覧です。 正しい。電遮断器は、特定電気用品です。 誤り。換気扇は、特定電気用品以外の電気用品です。 正しい。断面積22mm 2 以下で7芯以下のケーブルは、特定電気用品です。 誤り。電線管は、特定電気用品以外の電気用品です。 したがって正しい組合せは「A・C」です。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/img/6/05.png"
+      ],
+      "kamoku": "F - 保安に関する法令",
+      "saimoku": "2 - 電気用品安全法",
+      "question_index": 35
+    },
+    {
+      "id": "15_1_38",
+      "title": "第36問",
+      "question": "⑧で示す図記号の名称は。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/haisenzu.png"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "火災表示灯",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "漏電警報器",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "リモコンセレクタスイッチ",
+          "is_correct": true,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "表示スイッチ",
+          "is_correct": false,
+          "images": []
+        }
+      ],
+      "correct_answer": "ハ",
+      "kaisetsu": "火災表示灯 火災発生時に視認性の高い光で警告を表示する安全灯 漏電警報器 漏電が発生した場合に警報をならす装置 リモコンセレクタスイッチ 遠隔操作で複数の配線を切り替える複数のスイッチを1か所にまとめたもの。右下に点滅回路数を傍記する 表示スイッチ 位置表示や確認表示の機能を有するスイッチであって、タンブラースイッチ以外のもの ⑧の図記号は なので リモコンセレクタスイッチ (点滅回路数5)が正解です。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/img/zu/10.png",
+        "https://denkou2-siken.com/kakomon/img/zu/10.jpg",
+        "https://denkou2-siken.com/kakomon/img/zu/11.png",
+        "https://denkou2-siken.com/kakomon/img/zu/11.jpg",
+        "https://denkou2-siken.com/kakomon/img/zu/12.png",
+        "https://denkou2-siken.com/kakomon/img/zu/12.jpg",
+        "https://denkou2-siken.com/kakomon/img/zu/13.png",
+        "https://denkou2-siken.com/kakomon/img/zu/13.jpg",
+        "https://denkou2-siken.com/kakomon/img/zu/12.png"
+      ],
+      "kamoku": "G - 配線図(図記号)",
+      "saimoku": "5 - その他の電気機器",
+      "question_index": 36
+    },
+    {
+      "id": "15_1_26",
+      "title": "第37問",
+      "question": "接地抵抗計(電池式)に関する記述として， 誤っているものは 。",
+      "question_images": [],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "接地抵抗計には，ディジタル形と指針形(アナログ形)がある。",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "接地抵抗計の出力端子における電圧は，直流電圧である。",
+          "is_correct": true,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "接地抵抗測定の前には，接地抵抗計の電池容量が正常であることを確認する。",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "接地抵抗測定の前には，地電圧が許容値以下であることを確認する。",
+          "is_correct": false,
+          "images": []
+        }
+      ],
+      "correct_answer": "ロ",
+      "kaisetsu": "正しい。アナログ型もデジタル型もあります。 [誤り]。直流ではありません。接地抵抗を測定するときは、交流電流で測定します。地表面付近の土壌には、腐葉土などに由来する電解物質が多く含まれるため、直流電流を加えると接地極の金属表面で電気分解が起こり電流が流れにくくなるためです。 正しい。電池容量が適正でないと正確に抵抗を測定できないため、測定前に十分な電池容量があることを確認します。 正しい。測定前に接地極の地電圧が接地抵抗計の許容値以下であることを確認します。接地極の地電圧が許容値を超えていると、測定誤差により接地抵抗を正しく測定することができないためです。 したがって誤っているものは[ロ]です。",
+      "kaisetsu_images": [],
+      "kamoku": "E - 検査方法",
+      "saimoku": "3 - 接地抵抗測定",
+      "question_index": 37
+    },
+    {
+      "id": "15_1_45",
+      "title": "第38問",
+      "question": "⑮で示す部分の配線工事に必要なケーブルは。ただし，使用するケーブルの心線数は最少とする。なお，屋内配線の工事は，特記のある場合を除き600Vビニル絶縁ビニルシースケーブル平形(VVF)を用いたケーブル工事である。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/haisenzu.png"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/45_1.jpg"
+          ]
+        },
+        {
+          "label": "ロ",
+          "text": "",
+          "is_correct": true,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/45_2.jpg"
+          ]
+        },
+        {
+          "label": "ハ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/45_3.jpg"
+          ]
+        },
+        {
+          "label": "ニ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/45_4.jpg"
+          ]
+        }
+      ],
+      "correct_answer": "ロ",
+      "kaisetsu": "配線の線条数を求める問題は、次の4つの手順で考えます。これは心線数を答える問題、適切なケーブルを写真から選ぶ問題で共通の解法です。複線図を描く必要はありません。 配線が電源(非接地側)線とスイッチ・コンセントをつなぐ場合、電源線(黒線)を1本加える 配線の先に負荷がある場合、接地側の線(白線)を1本加える 配線がスイッチと負荷をつなぐ場合、リンクごとに1本加える 配線が3路スイッチ同士、または3路スイッチと4路スイッチをつなぐ場合、リンクごとに2本加える。ただし、3路スイッチはどちらに電源線を接続するかによって、最少本数に違いが出る場合がある 電源ⓔから延びる⑮部分の周辺配線を確認すると、左右に3路スイッチ● ア があることが確認できます。\n\n本問のように3路スイッチがある場合、通常は手前側に電源をつなぎます。例外的に次の2つの条件を両方満たすときに限り、奥側につなぐ（心線数を減らせる）と考えましょう。 手前側のみに対象の3路スイッチで点滅する器具がある 奥側に電源からの電圧線を必要とする器具がある 問では負荷アの位置が電源から見て奥側であり❶を満たしません。よって、電源からの電圧線は 手前 （右）の3路スイッチにつなぎます。\n\n上記の手順で電線数を検討すると、以下のようになります。 配線の先のスイッチ● イ に電源供給する必要があるので、電源線が 1 本必要です。 配線の先に蛍光灯等があるので、接地側の線が 1 本必要です。 ⑮部分を介してつながるスイッチと負荷はありません。 ● ア の3路スイッチ同士をつなぐ必要があるので、プラス 2 本します。 合計は「1＋1＋2＝4本」です。したがって心線数が 4 本である[ロ]が正解です。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/img/8/08.png",
+        "https://denkou2-siken.com/kakomon/img/8/09.png",
+        "https://denkou2-siken.com/kakomon/img/8/10.png",
+        "https://denkou2-siken.com/kakomon/img/8/11.png"
+      ],
+      "kamoku": "H - 配線図(その他)",
+      "saimoku": "7 - 線条数",
+      "question_index": 38
+    },
+    {
+      "id": "15_1_47",
+      "title": "第39問",
+      "question": "⑰で示す図記号の器具は。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/haisenzu.png"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/47_1.jpg"
+          ]
+        },
+        {
+          "label": "ロ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/47_2.jpg"
+          ]
+        },
+        {
+          "label": "ハ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/47_3.jpg"
+          ]
+        },
+        {
+          "label": "ニ",
+          "text": "",
+          "is_correct": true,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/47_4.jpg"
+          ]
+        }
+      ],
+      "correct_answer": "ニ",
+      "kaisetsu": "コンセントの傍記表示は、15A、125V、1口、2極であれば記載なし、それ以外の場合には定格電流、定格電圧、口数、極数がそれぞれ傍記されます。コンセントの種類と刃受けの形状の一覧は下表のとおりです。接地極付の刃受けには が付きます。 ⑰のコンセントは、125V(傍記なし)・20A・接地極付接地端子付ですから[ニ]の刃受けが正解となります。\n 誤り。単相125V・15A・接地極付接地端子付のコンセントです。 誤り。単相125V・20A以下・接地極付のコンセントです。 誤り。単相250V・20A以下・接地極付のコンセントです。 [正しい]。単相125V・20A以下・接地極付接地端子付のコンセントです。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/img/7/01.png",
+        "https://denkou2-siken.com/kakomon/img/7/02.png"
+      ],
+      "kamoku": "G - 配線図(図記号)",
+      "saimoku": "2 - コンセント",
+      "question_index": 39
+    },
+    {
+      "id": "15_1_48",
+      "title": "第40問",
+      "question": "⑱で示す図記号のものは。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/haisenzu.png"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/48_1.jpg"
+          ]
+        },
+        {
+          "label": "ロ",
+          "text": "",
+          "is_correct": true,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/48_2.jpg"
+          ]
+        },
+        {
+          "label": "ハ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/48_3.jpg"
+          ]
+        },
+        {
+          "label": "ニ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/48_4.jpg"
+          ]
+        }
+      ],
+      "correct_answer": "ロ",
+      "kaisetsu": "誤り。写真は『合成樹脂線ぴ』です。図記号は「PR」です。 [正しい]。図記号「LD」と露出配線(点線)の組合せは『ライティングダクト』を表します。天井や壁に取り付けられ、レール状のダクトに沿って照明器具を自由に取り付けることができる配線器具です。主に商業施設やギャラリー、住宅のリビングなどで利用され、デザイン性と実用性を兼ね備えています。 誤り。写真は『金属線ぴ』です。1種金属線ぴは「MM1」、2種金属線ぴは「MM2」で表します。金属線ぴ工事において中に電線を通して使用します。 誤り。写真は『ケーブルラック』です。天井や壁面に設置され、電線や通信ケーブルを整理し、安全かつ効率的に配線するために支持する構造物です。主に工場やデータセンター、オフィスビルなどで利用されます。 したがって正解は[ロ]です。",
+      "kaisetsu_images": [],
+      "kamoku": "G - 配線図(図記号)",
+      "saimoku": "1 - 配線器具と材料",
+      "question_index": 40
+    },
+    {
+      "id": "15_1_10",
+      "title": "第41問",
+      "question": "低圧屋内配線の分岐回路の設計で，配線用遮断器，分岐回路の電線の太さ及びコンセントの組合せとして， 適切なものは 。ただし，分岐点から配線用遮断器までは3ｍ，配線用遮断器からコンセントまでは8ｍとし，電線の数値は分岐回路の電線(軟銅線)の太さを示す。また，コンセントは兼用コンセントではないものとする。",
+      "question_images": [],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/10_1.png"
+          ]
+        },
+        {
+          "label": "ロ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/10_2.png"
+          ]
+        },
+        {
+          "label": "ハ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/10_3.png"
+          ]
+        },
+        {
+          "label": "ニ",
+          "text": "",
+          "is_correct": true,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/10_4.png"
+          ]
+        }
+      ],
+      "correct_answer": "ニ",
+      "kaisetsu": "分岐回路に取り付けることのできる電線とコンセントは、その分岐回路を保護する過電流遮断器の種類によって以下のように決まっています。設置するコンセントの個数は関係ありません。 使用できるコンセントは、配線用遮断器の定格電流と 同じもしくは一つ下の区分 のものに限ります。コンセントの定格電流が配線用遮断器の定格電流よりも大きい場合は問答無用で×です。\n 不適切。30A配線用遮断器の場合、電線は直径2.6mm(断面積5.5mm 2 )以上、コンセントは20A以上30A以下です。図の電線は2.0mmなのでNGです。 不適切。20A配線用遮断器の場合、電線は直径1.6mm以上、コンセントは20A以下です。図のコンセントは30AなのでNGです。 不適切。30A配線用遮断器の場合、電線は直径2.6mm(断面積5.5mm 2 )以上、コンセントは20A以上30A以下です。図のコンセントは15AなのでNGです。 [適切]。20A配線用遮断器の場合、電線は直径1.6mm以上、コンセントは20A以下です。図の電線とコンセントはいずれも基準内です。2-2-2の組合せはOKと覚えましょう。 したがって適切なものは[ニ]です。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/img/2/03.png"
+      ],
+      "kamoku": "B - 配電理論",
+      "saimoku": "5 - 分岐回路の設計",
+      "question_index": 41
+    },
+    {
+      "id": "15_1_9",
+      "title": "第42問",
+      "question": "図のように定格電流100Aの過電流遮断器で保護された低圧屋内幹線から分岐して，6ｍの位置に過電流遮断器を施設するとき，a-b間の電線の許容電流の最小値［A］は。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/09.png"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "25",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "35",
+          "is_correct": true,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "45",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "55",
+          "is_correct": false,
+          "images": []
+        }
+      ],
+      "correct_answer": "ロ",
+      "kaisetsu": "低圧の幹線から分岐する回路には、原則として分岐点から 3 ｍ以内に幹線を保護するための過電流遮断器を施設しなければなりません。ただし、幹線に施設されている過電流遮断器の定格電流に対して、分岐した電線の許容電流が① 35 ％以上であれば 8 ｍ以下に、② 55 ％以上であれば\"制限なし\"に距離が緩和されます。 本問では分岐点から過電流遮断器までの長さが6ｍなので、a-b間の許容電流は、幹線に施設されている過電流遮断器の定格電流である100Aの35％以上でなければなりません。\n\n　100[A]×35%＝35[A]\n\nしたがって[ロ]が正解となります。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/img/2/04.png"
+      ],
+      "kamoku": "B - 配電理論",
+      "saimoku": "4 - 幹線の設計",
+      "question_index": 42
+    },
+    {
+      "id": "15_1_29",
+      "title": "第43問",
+      "question": "電気工事士法において，一般用電気工作物の工事又は作業でa，bともに電気工事士でなければ 従事できないものは 。",
+      "question_images": [],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "a：電線が造営材を貫通する部分に金属製の防護装置を取り付ける。\nb：電圧200Vで使用する電力量計を取り外す。",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "a：電線管相互を接続する。\nb：接地極を地面に埋設する。",
+          "is_correct": true,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "a：地中電線用の管を設置する。\nb：配電盤を造営材に取り付ける。",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "a：電線を支持する柱を設置する。\nb：電圧100Vで使用する蓄電池の端子に電線をねじ止めする。",
+          "is_correct": false,
+          "images": []
+        }
+      ],
+      "correct_answer": "ロ",
+      "kaisetsu": "電気工事士法において定められている第二種電気工事士の独占業務と、電気工事から除かれる軽微な作業の一覧は以下のとおりです。 誤り。電線が造営材を貫通する部分に金属製の防護装置を取り付ける(⑩)は電気工事士の作業ですが、電圧200Vで使用する電力量計を取り外す(❸)のは誰でもできる作業です。 [正しい]。電線管を相互に接続する(⑦)、接地極を地面に埋設する(⑧)は両方とも電気工事士でなければできない作業です。 誤り。配電盤を造営材に取り付ける(⑫)のは電気工事士の作業ですが、地中電線用の管を設置する(❻)のは誰でもできる作業です。 誤り。電線を支持する柱を設置する(❺)、電圧100Vで使用する蓄電池の端子に電線をねじ止めする(❷)はどちらも誰でもできる作業です。 したがって適切な組合せは[ロ]です。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/img/6/01.png"
+      ],
+      "kamoku": "F - 保安に関する法令",
+      "saimoku": "1 - 電気工事士法",
+      "question_index": 43
+    },
+    {
+      "id": "15_1_20",
+      "title": "第44問",
+      "question": "三相誘導電動機回路の力率を改善するために，低圧進相コンデンサを接続する場合，その接続場所及び接続方法として， 最も適切なものは 。",
+      "question_images": [],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "主開閉器の電源側に各台数分をまとめて電動機と並列に接続する。",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "手元開閉器の負荷側に電動機と並列に接続する。",
+          "is_correct": true,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "手元開閉器の負荷側に電動機と直列に接続する。",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "手元開閉器の電源側に電動機と並列に接続する。",
+          "is_correct": false,
+          "images": []
+        }
+      ],
+      "correct_answer": "ロ",
+      "kaisetsu": "低圧進相コンデンサ は、電動機が接続される回路の力率の改善に利用されます。電動機のコイルの性質上、電流は電圧より遅れて流れるため、2つの時間差から仕事に関わらない電流が増加して力率が低下します。それを補うためには電流を大きくする必要があります。進相コンデンサは、電動機のコイルで遅れた分を進めて電圧と同じにする役割をもちます。 低圧進相コンデンサは、手元開閉器の 負荷側 (二次側)に、電動機と 並列 に接続します。開閉器の負荷側に接続するのは無負荷時に進相コンデンサも同時に切り離すようにするため、並列に接続するのは負荷に印加される電圧を変えないためです。\n\nしたがって[ロ]の記述が適切です。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/img/zu/71.jpg"
+      ],
+      "kamoku": "D - 施工方法",
+      "saimoku": "3 - 機器と器具の設置工事",
+      "question_index": 44
+    },
+    {
+      "id": "15_1_3",
+      "title": "第45問",
+      "question": "A，B 2本の同材質の銅線がある。Aは直径1.6mm，長さ20ｍ，Bは直径3.2mm，長さ40ｍである。Aの抵抗はBの抵抗の何倍か。",
+      "question_images": [],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "2",
+          "is_correct": true,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "3",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "4",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "5",
+          "is_correct": false,
+          "images": []
+        }
+      ],
+      "correct_answer": "イ",
+      "kaisetsu": "導体の形状と抵抗値には以下の関係があります。太く・短いほど電流が流れやすいと覚えましょう。\n 導体の長さが2倍になると、抵抗値は 2 倍になる 導体の断面積が2倍になると、抵抗値は 1／2 になる 導体の直径が2倍になると、抵抗値は 1／4 になる AとBを直径で比較すると、AはBの1／2なので上記③より抵抗は4倍です。長さで比較すると、AはBの1／2倍なので上記①より抵抗も1／2倍です。4倍の1／2倍なので、Aの抵抗はBの抵抗の「4×1／2＝ 2 倍」となります。したがって[イ]が正解です。",
+      "kaisetsu_images": [],
+      "kamoku": "A - 電気の基礎理論",
+      "saimoku": "2 - 導体と絶縁体",
+      "question_index": 45
+    },
+    {
+      "id": "15_1_32",
+      "title": "第46問",
+      "question": "②で示す部分はルームエアコンの屋内ユニットである。その図記号の傍記表示として， 正しいものは 。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/haisenzu.png"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "B",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "O",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "I",
+          "is_correct": true,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "R",
+          "is_correct": false,
+          "images": []
+        }
+      ],
+      "correct_answer": "ハ",
+      "kaisetsu": "ルームエアコンは図記号 で表し、屋外ユニットには「O」、屋内ユニットには「I」を右下に傍記します。OはOut(外)の略、IはIn(内)の略です。BとRはエアコンの傍記表示では使用しません。\n\n本問は 屋内 ユニットなので傍記表示は I です。したがって[ハ]が正解です。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/img/zu/a1.png"
+      ],
+      "kamoku": "G - 配線図(図記号)",
+      "saimoku": "5 - その他の電気機器",
+      "question_index": 46
+    },
+    {
+      "id": "15_1_31",
+      "title": "第47問",
+      "question": "①で示す屋外灯の種類は。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/haisenzu.png"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "蛍光灯",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "水銀灯",
+          "is_correct": true,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "ナトリウム灯",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "メタルハライド灯",
+          "is_correct": false,
+          "images": []
+        }
+      ],
+      "correct_answer": "ロ",
+      "kaisetsu": "屋外灯は図記号 で表し、HID灯を使う場合にはその種類を示す次の記号を傍記します。なお、傍記表示の数字は容量(W)を示しています。 水銀灯　 H （水銀の元素記号HgのH） メタルハライド灯　 M （MetalのM） ナトリウム灯　 N （元素記号NaのN） ①の屋外灯には「H」が傍記されているので 水銀灯 が正解となります。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/img/zu/56.png"
+      ],
+      "kamoku": "G - 配線図(図記号)",
+      "saimoku": "4 - 照明器具",
+      "question_index": 47
+    },
+    {
+      "id": "15_1_1",
+      "title": "第48問",
+      "question": "図のような回路で，端子a-b間の合成抵抗［Ω］は。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/01.png"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "1.5",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "1.8",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "2.4",
+          "is_correct": true,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "3.0",
+          "is_correct": false,
+          "images": []
+        }
+      ],
+      "correct_answer": "ハ",
+      "kaisetsu": "直流回路の合成抵抗の求め方は以下のとおりです。 左下の4Ωと4Ωの並列抵抗を合成すると、 4×4 4+4 ＝ 16 8 ＝2[Ω] ①で計算した2Ωと右下の4Ωの直列抵抗を合成すると、2＋4＝6[Ω] ②で計算した6Ωと上の4Ωとの並列抵抗を合成すると、 6×4 6+4 ＝ 24 10 ＝2.4[Ω] 以上より回路の合成抵抗は 2.4 [Ω]です。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/img/1/05.png",
+        "https://denkou2-siken.com/kakomon/2015_1/img/01_1.png",
+        "https://denkou2-siken.com/kakomon/2015_1/img/01_2.png",
+        "https://denkou2-siken.com/kakomon/2015_1/img/01_3.png"
+      ],
+      "kamoku": "A - 電気の基礎理論",
+      "saimoku": "1 - 電流、電圧、抵抗及び電力",
+      "question_index": 48
+    },
+    {
+      "id": "15_1_37",
+      "title": "第49問",
+      "question": "⑦で示す図記号の名称は。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/haisenzu.png"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "配線用遮断器",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ロ",
+          "text": "カットアウトスイッチ",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ハ",
+          "text": "モータブレーカ",
+          "is_correct": false,
+          "images": []
+        },
+        {
+          "label": "ニ",
+          "text": "漏電遮断器(過負荷保護付)",
+          "is_correct": true,
+          "images": []
+        }
+      ],
+      "correct_answer": "ニ",
+      "kaisetsu": "配線用遮断器(ブレーカ) 電流異常時に回路を遮断する安全装置。定格電流(A)が記載されている 漏電遮断器 \n 漏電遮断器(過負荷保護付) 漏電や過負荷を検出して回路を遮断する安全装置。定格感度電流(mA)が記載されていて、テストボタン(釦)がある モータブレーカ モータの過負荷や短絡を防ぐ回路保護装置。適用電動機の容量(kW)が記載されている カットアウトスイッチ 緊急時に電源を切断する磁器製の小型開閉器 ⑦の図記号は なので 漏電遮断器(過負荷保護付) が正解です。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/img/zu/06.png",
+        "https://denkou2-siken.com/kakomon/img/zu/06.jpg",
+        "https://denkou2-siken.com/kakomon/img/zu/09_1.png",
+        "https://denkou2-siken.com/kakomon/img/zu/09_2.png",
+        "https://denkou2-siken.com/kakomon/img/zu/09.jpg",
+        "https://denkou2-siken.com/kakomon/img/zu/07_1.png",
+        "https://denkou2-siken.com/kakomon/img/zu/07_2.png",
+        "https://denkou2-siken.com/kakomon/img/zu/07.jpg",
+        "https://denkou2-siken.com/kakomon/img/zu/none.jpg",
+        "https://denkou2-siken.com/kakomon/img/zu/09_2.png"
+      ],
+      "kamoku": "G - 配線図(図記号)",
+      "saimoku": "5 - その他の電気機器",
+      "question_index": 49
+    },
+    {
+      "id": "15_1_43",
+      "title": "第50問",
+      "question": "⑬で示すボックス内の接続をすべて圧着接続とする場合，使用するリングスリーブの種類と最少個数の組合せで， 適切なものは 。ただし，使用する電線はVVF1.6とし，ボックスを経由する電線は，すべて接続箇所を設けるものとする。",
+      "question_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/haisenzu.png"
+      ],
+      "choices": [
+        {
+          "label": "イ",
+          "text": "",
+          "is_correct": true,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/43_1.jpg"
+          ]
+        },
+        {
+          "label": "ロ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/43_2.jpg"
+          ]
+        },
+        {
+          "label": "ハ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/43_3.jpg"
+          ]
+        },
+        {
+          "label": "ニ",
+          "text": "",
+          "is_correct": false,
+          "images": [
+            "https://denkou2-siken.com/kakomon/2015_1/img/43_4.jpg"
+          ]
+        }
+      ],
+      "correct_answer": "イ",
+      "kaisetsu": "当サイトではボックス内の接続問題（リングスリーブ・差込型コネクタ）について、以下の定型化したやり方で解説しています。 ボックス部から延びる各枝線の本数を確定する 電圧線（黒線)、接地線（白線)、スイッチ間の接続線の順で接続する 接続点ごとに適切なスリーブ／コネクタを選定する 本問のように3路スイッチがある場合、通常は手前側に電源をつなぎます。例外的に次の2つの条件を両方満たすときに限り、奥側につなぐ（心線数を減らせる）と考えましょう。 手前側のみに対象の3路スイッチで点滅する器具がある 奥側に電源からの電圧線を必要とする器具がある 本問では負荷アが奥側のみにあり❶を満たさないため、電源からの電圧線は 手前 の3路スイッチにつなぎます。\n\n解答に必要な箇所のみ検討すると、本問では以下のようになります。 [右側] 3路スイッチ1つのみなので3本です（3路スイッチ同士をつなぐ2本、負荷アに向かう1本）。\n[左側] 3路スイッチと負荷アがあります。3路スイッチ同士をつなぐ2本と、負荷アからの戻りの接地線、さらに単路スイッチ● イ に向かう電圧線で計4本です。\n[下側] 直接電源につながっているので2本です（電圧線1本、接地線1本）。 電圧線・接地線・スイッチ間を接続します。接続点の色は、黒：電圧線、青：接地線、赤：スイッチ間です。 リングスリーブの種類と圧着マークの対応は下表のとおりです。 線種は全て1.6mmです。2本が3つ、3本が1つなので、使用するのは小スリーブ4個（刻印：〇3、小1）です。 したがって[イ]の組合せが正解となります。",
+      "kaisetsu_images": [
+        "https://denkou2-siken.com/kakomon/2015_1/img/43_5.png",
+        "https://denkou2-siken.com/kakomon/2015_1/img/43_6.png",
+        "https://denkou2-siken.com/kakomon/img/4/07.png"
+      ],
+      "kamoku": "H - 配線図(その他)",
+      "saimoku": "8 - ボックス内の接続",
+      "question_index": 50
+    }
+  ]
+}
