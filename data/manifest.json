@@ -1,0 +1,188 @@
+[
+  {
+    "exam_id": "26_1",
+    "exam_name": "令和8年上期",
+    "total_questions": 51,
+    "file": "26_1_令和8年上期.json"
+  },
+  {
+    "exam_id": "25_2",
+    "exam_name": "令和7年下期",
+    "total_questions": 50,
+    "file": "25_2_令和7年下期.json"
+  },
+  {
+    "exam_id": "25_1",
+    "exam_name": "令和7年上期",
+    "total_questions": 50,
+    "file": "25_1_令和7年上期.json"
+  },
+  {
+    "exam_id": "24_2",
+    "exam_name": "令和6年下期",
+    "total_questions": 50,
+    "file": "24_2_令和6年下期.json"
+  },
+  {
+    "exam_id": "24_1",
+    "exam_name": "令和6年上期",
+    "total_questions": 50,
+    "file": "24_1_令和6年上期.json"
+  },
+  {
+    "exam_id": "23_2-pm",
+    "exam_name": "令和5年下期 [午後]",
+    "total_questions": 50,
+    "file": "23_2-pm_令和5年下期 [午後].json"
+  },
+  {
+    "exam_id": "23_2-am",
+    "exam_name": "令和5年下期 [午前]",
+    "total_questions": 50,
+    "file": "23_2-am_令和5年下期 [午前].json"
+  },
+  {
+    "exam_id": "23_1-pm",
+    "exam_name": "令和5年上期 [午後]",
+    "total_questions": 50,
+    "file": "23_1-pm_令和5年上期 [午後].json"
+  },
+  {
+    "exam_id": "23_1-am",
+    "exam_name": "令和5年上期 [午前]",
+    "total_questions": 50,
+    "file": "23_1-am_令和5年上期 [午前].json"
+  },
+  {
+    "exam_id": "22_2-pm",
+    "exam_name": "令和4年下期 [午後]",
+    "total_questions": 50,
+    "file": "22_2-pm_令和4年下期 [午後].json"
+  },
+  {
+    "exam_id": "22_2-am",
+    "exam_name": "令和4年下期 [午前]",
+    "total_questions": 50,
+    "file": "22_2-am_令和4年下期 [午前].json"
+  },
+  {
+    "exam_id": "22_1-pm",
+    "exam_name": "令和4年上期 [午後]",
+    "total_questions": 50,
+    "file": "22_1-pm_令和4年上期 [午後].json"
+  },
+  {
+    "exam_id": "22_1-am",
+    "exam_name": "令和4年上期 [午前]",
+    "total_questions": 50,
+    "file": "22_1-am_令和4年上期 [午前].json"
+  },
+  {
+    "exam_id": "21_2-pm",
+    "exam_name": "令和3年下期 [午後]",
+    "total_questions": 50,
+    "file": "21_2-pm_令和3年下期 [午後].json"
+  },
+  {
+    "exam_id": "21_2-am",
+    "exam_name": "令和3年下期 [午前]",
+    "total_questions": 50,
+    "file": "21_2-am_令和3年下期 [午前].json"
+  },
+  {
+    "exam_id": "21_1-pm",
+    "exam_name": "令和3年上期 [午後]",
+    "total_questions": 50,
+    "file": "21_1-pm_令和3年上期 [午後].json"
+  },
+  {
+    "exam_id": "21_1-am",
+    "exam_name": "令和3年上期 [午前]",
+    "total_questions": 50,
+    "file": "21_1-am_令和3年上期 [午前].json"
+  },
+  {
+    "exam_id": "20_2-pm",
+    "exam_name": "令和2年下期 [午後]",
+    "total_questions": 50,
+    "file": "20_2-pm_令和2年下期 [午後].json"
+  },
+  {
+    "exam_id": "20_2-am",
+    "exam_name": "令和2年下期 [午前]",
+    "total_questions": 50,
+    "file": "20_2-am_令和2年下期 [午前].json"
+  },
+  {
+    "exam_id": "19_2",
+    "exam_name": "令和元年下期",
+    "total_questions": 50,
+    "file": "19_2_令和元年下期.json"
+  },
+  {
+    "exam_id": "19_1",
+    "exam_name": "令和元年上期",
+    "total_questions": 50,
+    "file": "19_1_令和元年上期.json"
+  },
+  {
+    "exam_id": "18_2",
+    "exam_name": "平成30年下期",
+    "total_questions": 50,
+    "file": "18_2_平成30年下期.json"
+  },
+  {
+    "exam_id": "18_1",
+    "exam_name": "平成30年上期",
+    "total_questions": 50,
+    "file": "18_1_平成30年上期.json"
+  },
+  {
+    "exam_id": "17_2",
+    "exam_name": "平成29年下期",
+    "total_questions": 50,
+    "file": "17_2_平成29年下期.json"
+  },
+  {
+    "exam_id": "17_1",
+    "exam_name": "平成29年上期",
+    "total_questions": 50,
+    "file": "17_1_平成29年上期.json"
+  },
+  {
+    "exam_id": "16_2",
+    "exam_name": "平成28年下期",
+    "total_questions": 50,
+    "file": "16_2_平成28年下期.json"
+  },
+  {
+    "exam_id": "16_1",
+    "exam_name": "平成28年上期",
+    "total_questions": 50,
+    "file": "16_1_平成28年上期.json"
+  },
+  {
+    "exam_id": "15_2",
+    "exam_name": "平成27年下期",
+    "total_questions": 50,
+    "file": "15_2_平成27年下期.json"
+  },
+  {
+    "exam_id": "15_1",
+    "exam_name": "平成27年上期",
+    "total_questions": 50,
+    "file": "15_1_平成27年上期.json"
+  },
+  {
+    "exam_id": "14_2",
+    "exam_name": "平成26年下期",
+    "total_questions": 50,
+    "file": "14_2_平成26年下期.json"
+  },
+  {
+    "exam_id": "14_1",
+    "exam_name": "平成26年上期",
+    "total_questions": 50,
+    "file": "14_1_平成26年上期.json"
+  }
+]
